@@ -1,5 +1,18 @@
 body{
-  background-color:#B5C18E;
+  background-color:black;
+}
+h1{
+  color: red;
+  font: bolder;
+}
+p{
+  color:brown;
+}
+ul{
+  color:chocolate;
+}
+li{
+  color: chocolate;
 }
 hr{
   border-color: whitesmoke;
@@ -7,7 +20,4 @@ hr{
   border-width: 5px ;
   width: 30%;
 }
-h1{
-  color: green;
-  font: bolder;
-}
+</html>
